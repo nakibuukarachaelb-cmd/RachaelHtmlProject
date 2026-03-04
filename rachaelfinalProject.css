@@ -22,7 +22,7 @@ h1 {
     padding: 40px;
     background-image: url("naturalfoods.jpg");
     color: white;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('natural\ foods.jpg')
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('naturalfoods.jpg')
 }
 
 h3 {
@@ -102,4 +102,18 @@ p {
     text-decoration: none;
     text-decoration-line: none; */
 }
-    
+.sec2 {
+    background-color: #f1e3d1;
+}
+head3 {
+    font-size: 20px;
+}
+/* c1, c2, c3, c4, A {
+    padding: 50%;
+    /* padding-top: 50px;
+    padding-bottom: 35px;
+    padding-left: 40px;
+    padding-right: 50px;
+    margin-top: 100px;
+    margin-right: 50px;
+} */
